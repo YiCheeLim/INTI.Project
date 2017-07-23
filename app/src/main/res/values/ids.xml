@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_item_pet_title_text_view" type="id">feed it</item>
+    <item name="list_item_pet_date_text_view" type="id">daily</item>
+    <item name="list_item_pet_solved_check_box" type="id">check</item>
+</resources>
